@@ -1,0 +1,4 @@
+nama : Bellatrix Tiffany
+jurusan : SIJA
+TTL : Sleman, 0$ Maret @00^
+is_love_seventeen : TRUE
